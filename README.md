@@ -7,6 +7,7 @@ Through ibm watson created assistant and skill
 
 files:
 indxe.html
+
 chatbot.json
 
 
